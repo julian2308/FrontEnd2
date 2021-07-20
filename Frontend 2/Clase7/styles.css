@@ -1,0 +1,7 @@
+.contenedor {
+    display: flex;
+}
+
+.tarjeta{
+    width: 33%;
+}

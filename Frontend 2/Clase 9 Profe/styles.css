@@ -1,0 +1,15 @@
+.contenedor{
+    text-align: center;
+    padding: 50px;
+    max-width: 450px;
+    margin: 50px auto;
+    background-color: aquamarine;
+}
+button{
+    background-color: black;
+    border: 2px solid white;
+    color: white;
+    padding: 5px 15px;
+    font-size: 2rem;
+    
+}
